@@ -11,7 +11,7 @@ Please cite this code or the data set as: BibTex will be added after publication
 
 This dataset contains 990 length measurements with a CT scan for different settings of 6 measures (e.g. current and voltage). For more information about the CT scan dataset, please contact Tobias Müller (mlb, T.Mueller@wzl-mq.rwth-aachen.de).
 
-Der Datensatz ist in Zusammenhang mit einer übergreifenden Kooperation mit der Werth Messtechnik GmbH entstanden. 
+The data set was created in connection with an overarching cooperation with Werth Messtechnik GmbH. 
 
 # License
 
